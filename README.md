@@ -49,8 +49,10 @@ The XYZ company project was carried out in the following steps:
 during data wrangling i was ab le to have clearer picture of some functions in data analysis, which are very vital when it comes to analysis. some of it are the visualization, null value, unique value, Mean and standard deviation as listed below.
 
   # 1. Visualisation
-    this  visualising the data helps in decision-making, helps to inerrelate the data to find better insights and reap the importance of data visualization in analyzing the data in a beter way. it helps the business stakeholders focus on the areas that requires attention. it helps in fast decision making. this is because human process visual better than any tedius tabular forms or reports. it means if the data communicates well, decsion-makers can quickly take actions based on the new data insights.
-    
+this  visualising the data helps in decision-making, helps to inerrelate the data to find better insights and reap the importance of data visualization in analyzing the data in a beter way. it helps the business stakeholders focus on the areas that requires attention. it helps in fast decision making. this is because human process visual better than any tedius tabular forms or reports. it means if the data communicates well, decsion-makers can quickly take actions based on the new data insights.
+
+![VS1](https://github.com/mdrasel3/data-analysis-demo-project-1/assets/95276609/db4ab645-3cb5-480e-9249-a292900fe288)
+
    # 2. Unique()-value:
    this function is used to find the unique elements of an array. it returns the sorted unique elements of an array.
    
