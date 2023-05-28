@@ -51,7 +51,16 @@ during data wrangling i was ab le to have clearer picture of some functions in d
   # 1. Visualisation
 this  visualising the data helps in decision-making, helps to inerrelate the data to find better insights and reap the importance of data visualization in analyzing the data in a beter way. it helps the business stakeholders focus on the areas that requires attention. it helps in fast decision making. this is because human process visual better than any tedius tabular forms or reports. it means if the data communicates well, decsion-makers can quickly take actions based on the new data insights.
 
-![VS1](https://github.com/mdrasel3/data-analysis-demo-project-1/assets/95276609/db4ab645-3cb5-480e-9249-a292900fe288)
+![VS1](https://github.com/mdrasel3/data-analysis-demo-project-1/assets/95276609/6abe5dda-3b28-41ad-8d7e-7145c17159f3)
+
+![VS2](https://github.com/mdrasel3/data-analysis-demo-project-1/assets/95276609/95c8ad5a-a699-4d57-9c7a-1b886c534006)
+
+![VS5](https://github.com/mdrasel3/data-analysis-demo-project-1/assets/95276609/88eb0342-d7ea-42c5-93e3-9a6ea72d5868)
+
+![VS3](https://github.com/mdrasel3/data-analysis-demo-project-1/assets/95276609/56db9f21-d62d-41ea-ba44-0a3ab5d3fc9d)
+
+![VS4](https://github.com/mdrasel3/data-analysis-demo-project-1/assets/95276609/3cacaffd-3e2b-4e3c-be53-ae7c64280428)
+
 
    # 2. Unique()-value:
    this function is used to find the unique elements of an array. it returns the sorted unique elements of an array.
